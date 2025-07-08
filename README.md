@@ -4,3 +4,4 @@ Student Portal (CRUD Application)
 *:-Implemented CRUD functionalities, including student record creation, updating, and deletion.
 *:-Designed a responsive front-end interface and ensured seamless data interaction with MongoDB via RESTful APIs.
 *:-Applied authentication and role-based access control to secure user data.
+![Homepage](https://github.com/user-attachments/assets/8a2413c9-2917-4c07-ba3a-c7ac1bbc90f2)
